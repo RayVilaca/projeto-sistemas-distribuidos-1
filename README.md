@@ -1,2 +1,11 @@
-# Projeto-SD
-Projeto realizado na disciplina de sistemas distribuídos com a finalidade de por em prática conceitos como concorrência, replicação, consistência de dados e tolerância a falhas por meio de implementação em Java.
+# Projeto Desenvolvido para a Disciplina de Sistemas Distribuídos
+Este repositório contém o projeto desenvolvido na disciplina de Sistemas Distribuídos, com o objetivo de aplicar na prática conceitos fundamentais, como:
+
+- ✅ Concorrência ⚡
+- ✅ Replicação 🔄
+- ✅ Consistência de dados 📊
+- ✅ Tolerância a falhas 🔧
+
+A implementação foi realizada em Java, explorando técnicas e arquiteturas que garantem a comunicação e sincronização entre processos distribuídos.
+
+![image](https://github.com/user-attachments/assets/fbf06788-dfa4-47e8-be14-86a116938a9b)
